@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "mydata-001"
+  },
+  "targets": {
+    "mydata-001": {
+      "hosting": {
+        "app": [
+          "trackingsystem-v2"
+        ]
+      }
+    }
+  }
+}
